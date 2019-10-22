@@ -3,7 +3,7 @@ web scraping data in the financial market
 
 Start Virtual Environment
 
-run multi_quotes.py to store 
+run multi_quotes.py to store the data of
   
   S&P 500 Index, 
   NASDAQ Composite Index 
