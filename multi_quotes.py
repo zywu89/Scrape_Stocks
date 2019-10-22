@@ -5,7 +5,8 @@ from datetime import datetime
 
 #specify the url
 quote_page = ['https://www.marketwatch.com/investing/index/spx', 
-				'https://www.marketwatch.com/investing/index/comp']
+				'https://www.marketwatch.com/investing/index/comp',
+                'https://www.marketwatch.com/investing/index/djia']
 
 data = []
 for pg in quote_page:
